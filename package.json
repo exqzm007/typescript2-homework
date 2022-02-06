@@ -1,0 +1,23 @@
+{
+  "name": "typescript2-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts": "tsc --noEmit -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exqzm007/typescript2-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exqzm007/typescript2-homework/issues"
+  },
+  "homepage": "https://github.com/exqzm007/typescript2-homework#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
